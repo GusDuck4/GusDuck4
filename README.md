@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GusDuck4
 - 👀 I’m interested in farming and green tech
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on NGO projects
+- 🌱 I work as a product manager
 - 📫 How to reach me - email: gustavduckert@gmail.com
 
 <!---
